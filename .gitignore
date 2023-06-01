@@ -1,0 +1,7 @@
+/src/data/*.csv
+/src/data/*.db
+/src/data/*.txt
+/src/*/*.png
+/src/pca/
+.DS_Store
+.idea/
